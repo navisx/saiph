@@ -1,4 +1,4 @@
-<p align="center"><img width=50% src="https://nav.is-inside.me/Y2ilE499.png"></p>
+<p align="center"><img width=100% src="https://nav.is-inside.me/Y2ilE499.png"></p>
 
 # Saiph
 
